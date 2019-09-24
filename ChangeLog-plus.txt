@@ -1,4 +1,4 @@
-{"version_code":9,"content":"
+{"version_code":8,"content":"
 <p>تحديث 2.00</p>
 
 <li>يمكنك إخفاء انك شاهدت القصص</li>
